@@ -1,0 +1,13 @@
+C:\Users\Nihil\Desktop\Round V\2_Day\1_errorHandling\bin\Debug\netcoreapp3.1\1_errorHandling.exe
+C:\Users\Nihil\Desktop\Round V\2_Day\1_errorHandling\bin\Debug\netcoreapp3.1\1_errorHandling.deps.json
+C:\Users\Nihil\Desktop\Round V\2_Day\1_errorHandling\bin\Debug\netcoreapp3.1\1_errorHandling.runtimeconfig.json
+C:\Users\Nihil\Desktop\Round V\2_Day\1_errorHandling\bin\Debug\netcoreapp3.1\1_errorHandling.runtimeconfig.dev.json
+C:\Users\Nihil\Desktop\Round V\2_Day\1_errorHandling\bin\Debug\netcoreapp3.1\1_errorHandling.dll
+C:\Users\Nihil\Desktop\Round V\2_Day\1_errorHandling\bin\Debug\netcoreapp3.1\1_errorHandling.pdb
+C:\Users\Nihil\Desktop\Round V\2_Day\1_errorHandling\obj\Debug\netcoreapp3.1\1_errorHandling.csproj.AssemblyReference.cache
+C:\Users\Nihil\Desktop\Round V\2_Day\1_errorHandling\obj\Debug\netcoreapp3.1\1_errorHandling.AssemblyInfoInputs.cache
+C:\Users\Nihil\Desktop\Round V\2_Day\1_errorHandling\obj\Debug\netcoreapp3.1\1_errorHandling.AssemblyInfo.cs
+C:\Users\Nihil\Desktop\Round V\2_Day\1_errorHandling\obj\Debug\netcoreapp3.1\1_errorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\Round V\2_Day\1_errorHandling\obj\Debug\netcoreapp3.1\1_errorHandling.dll
+C:\Users\Nihil\Desktop\Round V\2_Day\1_errorHandling\obj\Debug\netcoreapp3.1\1_errorHandling.pdb
+C:\Users\Nihil\Desktop\Round V\2_Day\1_errorHandling\obj\Debug\netcoreapp3.1\1_errorHandling.genruntimeconfig.cache

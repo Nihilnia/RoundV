@@ -1,0 +1,13 @@
+C:\Users\Nihil\Desktop\Round V\2_Day\3_throwException\bin\Debug\netcoreapp3.1\3_throwException.exe
+C:\Users\Nihil\Desktop\Round V\2_Day\3_throwException\bin\Debug\netcoreapp3.1\3_throwException.deps.json
+C:\Users\Nihil\Desktop\Round V\2_Day\3_throwException\bin\Debug\netcoreapp3.1\3_throwException.runtimeconfig.json
+C:\Users\Nihil\Desktop\Round V\2_Day\3_throwException\bin\Debug\netcoreapp3.1\3_throwException.runtimeconfig.dev.json
+C:\Users\Nihil\Desktop\Round V\2_Day\3_throwException\bin\Debug\netcoreapp3.1\3_throwException.dll
+C:\Users\Nihil\Desktop\Round V\2_Day\3_throwException\bin\Debug\netcoreapp3.1\3_throwException.pdb
+C:\Users\Nihil\Desktop\Round V\2_Day\3_throwException\obj\Debug\netcoreapp3.1\3_throwException.AssemblyInfoInputs.cache
+C:\Users\Nihil\Desktop\Round V\2_Day\3_throwException\obj\Debug\netcoreapp3.1\3_throwException.AssemblyInfo.cs
+C:\Users\Nihil\Desktop\Round V\2_Day\3_throwException\obj\Debug\netcoreapp3.1\3_throwException.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\Round V\2_Day\3_throwException\obj\Debug\netcoreapp3.1\3_throwException.dll
+C:\Users\Nihil\Desktop\Round V\2_Day\3_throwException\obj\Debug\netcoreapp3.1\3_throwException.pdb
+C:\Users\Nihil\Desktop\Round V\2_Day\3_throwException\obj\Debug\netcoreapp3.1\3_throwException.genruntimeconfig.cache
+C:\Users\Nihil\Desktop\Round V\2_Day\3_throwException\obj\Debug\netcoreapp3.1\3_throwException.csproj.AssemblyReference.cache

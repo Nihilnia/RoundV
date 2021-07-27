@@ -1,0 +1,12 @@
+C:\Users\Nihil\Desktop\Round V\2_Day\4_exerciseErrorHandling\bin\Debug\netcoreapp3.1\4_exerciseErrorHandling.exe
+C:\Users\Nihil\Desktop\Round V\2_Day\4_exerciseErrorHandling\bin\Debug\netcoreapp3.1\4_exerciseErrorHandling.deps.json
+C:\Users\Nihil\Desktop\Round V\2_Day\4_exerciseErrorHandling\bin\Debug\netcoreapp3.1\4_exerciseErrorHandling.runtimeconfig.json
+C:\Users\Nihil\Desktop\Round V\2_Day\4_exerciseErrorHandling\bin\Debug\netcoreapp3.1\4_exerciseErrorHandling.runtimeconfig.dev.json
+C:\Users\Nihil\Desktop\Round V\2_Day\4_exerciseErrorHandling\bin\Debug\netcoreapp3.1\4_exerciseErrorHandling.dll
+C:\Users\Nihil\Desktop\Round V\2_Day\4_exerciseErrorHandling\bin\Debug\netcoreapp3.1\4_exerciseErrorHandling.pdb
+C:\Users\Nihil\Desktop\Round V\2_Day\4_exerciseErrorHandling\obj\Debug\netcoreapp3.1\4_exerciseErrorHandling.AssemblyInfoInputs.cache
+C:\Users\Nihil\Desktop\Round V\2_Day\4_exerciseErrorHandling\obj\Debug\netcoreapp3.1\4_exerciseErrorHandling.AssemblyInfo.cs
+C:\Users\Nihil\Desktop\Round V\2_Day\4_exerciseErrorHandling\obj\Debug\netcoreapp3.1\4_exerciseErrorHandling.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\Round V\2_Day\4_exerciseErrorHandling\obj\Debug\netcoreapp3.1\4_exerciseErrorHandling.dll
+C:\Users\Nihil\Desktop\Round V\2_Day\4_exerciseErrorHandling\obj\Debug\netcoreapp3.1\4_exerciseErrorHandling.pdb
+C:\Users\Nihil\Desktop\Round V\2_Day\4_exerciseErrorHandling\obj\Debug\netcoreapp3.1\4_exerciseErrorHandling.genruntimeconfig.cache
