@@ -4,8 +4,7 @@
 
 Collections, three hours.
 
-<br/><br/>
-
+<br/>
 
 - **Day 2**:
 
