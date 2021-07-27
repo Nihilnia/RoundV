@@ -1,0 +1,13 @@
+C:\Users\Nihil\Desktop\Round V\1_Day\4_Dictionary\bin\Debug\netcoreapp3.1\4_Dictionary.exe
+C:\Users\Nihil\Desktop\Round V\1_Day\4_Dictionary\bin\Debug\netcoreapp3.1\4_Dictionary.deps.json
+C:\Users\Nihil\Desktop\Round V\1_Day\4_Dictionary\bin\Debug\netcoreapp3.1\4_Dictionary.runtimeconfig.json
+C:\Users\Nihil\Desktop\Round V\1_Day\4_Dictionary\bin\Debug\netcoreapp3.1\4_Dictionary.runtimeconfig.dev.json
+C:\Users\Nihil\Desktop\Round V\1_Day\4_Dictionary\bin\Debug\netcoreapp3.1\4_Dictionary.dll
+C:\Users\Nihil\Desktop\Round V\1_Day\4_Dictionary\bin\Debug\netcoreapp3.1\4_Dictionary.pdb
+C:\Users\Nihil\Desktop\Round V\1_Day\4_Dictionary\obj\Debug\netcoreapp3.1\4_Dictionary.AssemblyInfoInputs.cache
+C:\Users\Nihil\Desktop\Round V\1_Day\4_Dictionary\obj\Debug\netcoreapp3.1\4_Dictionary.AssemblyInfo.cs
+C:\Users\Nihil\Desktop\Round V\1_Day\4_Dictionary\obj\Debug\netcoreapp3.1\4_Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\Round V\1_Day\4_Dictionary\obj\Debug\netcoreapp3.1\4_Dictionary.dll
+C:\Users\Nihil\Desktop\Round V\1_Day\4_Dictionary\obj\Debug\netcoreapp3.1\4_Dictionary.pdb
+C:\Users\Nihil\Desktop\Round V\1_Day\4_Dictionary\obj\Debug\netcoreapp3.1\4_Dictionary.genruntimeconfig.cache
+C:\Users\Nihil\Desktop\Round V\1_Day\4_Dictionary\obj\Debug\netcoreapp3.1\4_Dictionary.csproj.AssemblyReference.cache

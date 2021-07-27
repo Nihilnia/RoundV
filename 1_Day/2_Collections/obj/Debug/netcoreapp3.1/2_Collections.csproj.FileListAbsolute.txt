@@ -1,0 +1,12 @@
+C:\Users\Nihil\Desktop\Round V\1_Day\2_Collections\bin\Debug\netcoreapp3.1\2_Collections.exe
+C:\Users\Nihil\Desktop\Round V\1_Day\2_Collections\bin\Debug\netcoreapp3.1\2_Collections.deps.json
+C:\Users\Nihil\Desktop\Round V\1_Day\2_Collections\bin\Debug\netcoreapp3.1\2_Collections.runtimeconfig.json
+C:\Users\Nihil\Desktop\Round V\1_Day\2_Collections\bin\Debug\netcoreapp3.1\2_Collections.runtimeconfig.dev.json
+C:\Users\Nihil\Desktop\Round V\1_Day\2_Collections\bin\Debug\netcoreapp3.1\2_Collections.dll
+C:\Users\Nihil\Desktop\Round V\1_Day\2_Collections\bin\Debug\netcoreapp3.1\2_Collections.pdb
+C:\Users\Nihil\Desktop\Round V\1_Day\2_Collections\obj\Debug\netcoreapp3.1\2_Collections.AssemblyInfoInputs.cache
+C:\Users\Nihil\Desktop\Round V\1_Day\2_Collections\obj\Debug\netcoreapp3.1\2_Collections.AssemblyInfo.cs
+C:\Users\Nihil\Desktop\Round V\1_Day\2_Collections\obj\Debug\netcoreapp3.1\2_Collections.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\Round V\1_Day\2_Collections\obj\Debug\netcoreapp3.1\2_Collections.dll
+C:\Users\Nihil\Desktop\Round V\1_Day\2_Collections\obj\Debug\netcoreapp3.1\2_Collections.pdb
+C:\Users\Nihil\Desktop\Round V\1_Day\2_Collections\obj\Debug\netcoreapp3.1\2_Collections.genruntimeconfig.cache

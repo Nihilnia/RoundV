@@ -1,0 +1,12 @@
+C:\Users\Nihil\Desktop\Round V\1_Day\1_warmUp\bin\Debug\netcoreapp3.1\1_warmUp.exe
+C:\Users\Nihil\Desktop\Round V\1_Day\1_warmUp\bin\Debug\netcoreapp3.1\1_warmUp.deps.json
+C:\Users\Nihil\Desktop\Round V\1_Day\1_warmUp\bin\Debug\netcoreapp3.1\1_warmUp.runtimeconfig.json
+C:\Users\Nihil\Desktop\Round V\1_Day\1_warmUp\bin\Debug\netcoreapp3.1\1_warmUp.runtimeconfig.dev.json
+C:\Users\Nihil\Desktop\Round V\1_Day\1_warmUp\bin\Debug\netcoreapp3.1\1_warmUp.dll
+C:\Users\Nihil\Desktop\Round V\1_Day\1_warmUp\bin\Debug\netcoreapp3.1\1_warmUp.pdb
+C:\Users\Nihil\Desktop\Round V\1_Day\1_warmUp\obj\Debug\netcoreapp3.1\1_warmUp.AssemblyInfoInputs.cache
+C:\Users\Nihil\Desktop\Round V\1_Day\1_warmUp\obj\Debug\netcoreapp3.1\1_warmUp.AssemblyInfo.cs
+C:\Users\Nihil\Desktop\Round V\1_Day\1_warmUp\obj\Debug\netcoreapp3.1\1_warmUp.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\Round V\1_Day\1_warmUp\obj\Debug\netcoreapp3.1\1_warmUp.dll
+C:\Users\Nihil\Desktop\Round V\1_Day\1_warmUp\obj\Debug\netcoreapp3.1\1_warmUp.pdb
+C:\Users\Nihil\Desktop\Round V\1_Day\1_warmUp\obj\Debug\netcoreapp3.1\1_warmUp.genruntimeconfig.cache

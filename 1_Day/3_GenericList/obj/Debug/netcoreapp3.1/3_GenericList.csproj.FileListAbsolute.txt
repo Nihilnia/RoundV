@@ -1,0 +1,13 @@
+C:\Users\Nihil\Desktop\Round V\1_Day\3_GenericList\bin\Debug\netcoreapp3.1\3_GenericList.exe
+C:\Users\Nihil\Desktop\Round V\1_Day\3_GenericList\bin\Debug\netcoreapp3.1\3_GenericList.deps.json
+C:\Users\Nihil\Desktop\Round V\1_Day\3_GenericList\bin\Debug\netcoreapp3.1\3_GenericList.runtimeconfig.json
+C:\Users\Nihil\Desktop\Round V\1_Day\3_GenericList\bin\Debug\netcoreapp3.1\3_GenericList.runtimeconfig.dev.json
+C:\Users\Nihil\Desktop\Round V\1_Day\3_GenericList\bin\Debug\netcoreapp3.1\3_GenericList.dll
+C:\Users\Nihil\Desktop\Round V\1_Day\3_GenericList\bin\Debug\netcoreapp3.1\3_GenericList.pdb
+C:\Users\Nihil\Desktop\Round V\1_Day\3_GenericList\obj\Debug\netcoreapp3.1\3_GenericList.AssemblyInfoInputs.cache
+C:\Users\Nihil\Desktop\Round V\1_Day\3_GenericList\obj\Debug\netcoreapp3.1\3_GenericList.AssemblyInfo.cs
+C:\Users\Nihil\Desktop\Round V\1_Day\3_GenericList\obj\Debug\netcoreapp3.1\3_GenericList.csproj.CoreCompileInputs.cache
+C:\Users\Nihil\Desktop\Round V\1_Day\3_GenericList\obj\Debug\netcoreapp3.1\3_GenericList.dll
+C:\Users\Nihil\Desktop\Round V\1_Day\3_GenericList\obj\Debug\netcoreapp3.1\3_GenericList.pdb
+C:\Users\Nihil\Desktop\Round V\1_Day\3_GenericList\obj\Debug\netcoreapp3.1\3_GenericList.genruntimeconfig.cache
+C:\Users\Nihil\Desktop\Round V\1_Day\3_GenericList\obj\Debug\netcoreapp3.1\3_GenericList.csproj.AssemblyReference.cache
