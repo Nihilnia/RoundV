@@ -257,6 +257,7 @@ namespace _3_updateDB
                 {
                     Console.WriteLine($@"
                 -----------------------------
+                    ID: {f.ID},
                     Song: {f.Name},
                     Artist: {f.Artist},
                     Length: {f.Length}

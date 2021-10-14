@@ -2,7 +2,7 @@
 
 namespace _3_updateDB.Migrations
 {
-    public partial class deneme01 : Migration
+    public partial class deneme08 : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {

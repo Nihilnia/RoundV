@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gloria\\Desktop\\Round V\\32_Day\\1_usingSQLServer\\3_updateDB.csproj": {}
+    "C:\\Users\\Gloria\\Documents\\GitHub\\RoundV\\32_Day\\1_usingSQLServer\\3_updateDB.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gloria\\Desktop\\Round V\\32_Day\\1_usingSQLServer\\3_updateDB.csproj": {
+    "C:\\Users\\Gloria\\Documents\\GitHub\\RoundV\\32_Day\\1_usingSQLServer\\3_updateDB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gloria\\Desktop\\Round V\\32_Day\\1_usingSQLServer\\3_updateDB.csproj",
+        "projectUniqueName": "C:\\Users\\Gloria\\Documents\\GitHub\\RoundV\\32_Day\\1_usingSQLServer\\3_updateDB.csproj",
         "projectName": "3_updateDB",
-        "projectPath": "C:\\Users\\Gloria\\Desktop\\Round V\\32_Day\\1_usingSQLServer\\3_updateDB.csproj",
+        "projectPath": "C:\\Users\\Gloria\\Documents\\GitHub\\RoundV\\32_Day\\1_usingSQLServer\\3_updateDB.csproj",
         "packagesPath": "C:\\Users\\Gloria\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gloria\\Desktop\\Round V\\32_Day\\1_usingSQLServer\\obj\\",
+        "outputPath": "C:\\Users\\Gloria\\Documents\\GitHub\\RoundV\\32_Day\\1_usingSQLServer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gloria\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,6 +53,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.11, )"
+            },
+            "MySql.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.5, )"
             }
           },
           "imports": [

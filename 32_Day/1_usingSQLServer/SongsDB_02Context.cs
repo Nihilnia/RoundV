@@ -14,7 +14,13 @@ namespace _3_updateDB
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"Data Source  = .\SQLEXPRESS; Initial Catalog = SongsDB_03; Integrated Security = SSPI");   
+            //MySQL
+            //optionsBuilder.UseMySQL(@"server = localhost; port = 3306; database = Gloria; user = root; password = 1234;"); 
+
+            //SQL
+            optionsBuilder.UseSqlServer(@"Data Source  = .\SQLEXPRESS; Initial Catalog = SongsDB_04; Integrated Security = SSPI");   
+
+            //SqlLite
             //optionsBuilder.UseSqlite("Data Source = SongsDB_02.db");
             optionsBuilder.LogTo(Console.WriteLine);
         }

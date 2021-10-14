@@ -2,7 +2,7 @@
   "profiles": {
     "3_updateDB": {
       "commandName": "Project",
-      "workingDirectory": "C:\\Users\\Gloria\\Desktop\\Round V\\32_Day\\1_usingSQLServer"
+      "workingDirectory": "C:\\Users\\Gloria\\Documents\\GitHub\\RoundV\\32_Day\\1_usingSQLServer"
     }
   }
 }

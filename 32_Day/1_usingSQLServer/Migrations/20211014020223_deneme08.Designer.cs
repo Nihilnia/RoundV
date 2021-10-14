@@ -9,8 +9,8 @@ using _3_updateDB;
 namespace _3_updateDB.Migrations
 {
     [DbContext(typeof(SongsDB_02Context))]
-    [Migration("20211013235908_deneme01")]
-    partial class deneme01
+    [Migration("20211014020223_deneme08")]
+    partial class deneme08
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
