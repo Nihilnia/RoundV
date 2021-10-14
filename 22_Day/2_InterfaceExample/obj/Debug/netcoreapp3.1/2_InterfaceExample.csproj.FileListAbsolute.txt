@@ -1,0 +1,14 @@
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\bin\Debug\netcoreapp3.1\2_InterfaceExample.exe
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\bin\Debug\netcoreapp3.1\2_InterfaceExample.deps.json
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\bin\Debug\netcoreapp3.1\2_InterfaceExample.runtimeconfig.json
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\bin\Debug\netcoreapp3.1\2_InterfaceExample.runtimeconfig.dev.json
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\bin\Debug\netcoreapp3.1\2_InterfaceExample.dll
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\bin\Debug\netcoreapp3.1\2_InterfaceExample.pdb
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\obj\Debug\netcoreapp3.1\2_InterfaceExample.csproj.AssemblyReference.cache
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\obj\Debug\netcoreapp3.1\2_InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\obj\Debug\netcoreapp3.1\2_InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\obj\Debug\netcoreapp3.1\2_InterfaceExample.AssemblyInfo.cs
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\obj\Debug\netcoreapp3.1\2_InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\obj\Debug\netcoreapp3.1\2_InterfaceExample.dll
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\obj\Debug\netcoreapp3.1\2_InterfaceExample.pdb
+C:\Users\Gloria\Desktop\Round V\22_Day\2_InterfaceExample\obj\Debug\netcoreapp3.1\2_InterfaceExample.genruntimeconfig.cache
