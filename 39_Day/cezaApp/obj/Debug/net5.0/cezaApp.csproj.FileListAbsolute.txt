@@ -1,0 +1,16 @@
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\bin\Debug\net5.0\cezaApp.exe
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\bin\Debug\net5.0\cezaApp.deps.json
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\bin\Debug\net5.0\cezaApp.runtimeconfig.json
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\bin\Debug\net5.0\cezaApp.runtimeconfig.dev.json
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\bin\Debug\net5.0\cezaApp.dll
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\bin\Debug\net5.0\ref\cezaApp.dll
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\bin\Debug\net5.0\cezaApp.pdb
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\obj\Debug\net5.0\cezaApp.csproj.AssemblyReference.cache
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\obj\Debug\net5.0\cezaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\obj\Debug\net5.0\cezaApp.AssemblyInfoInputs.cache
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\obj\Debug\net5.0\cezaApp.AssemblyInfo.cs
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\obj\Debug\net5.0\cezaApp.csproj.CoreCompileInputs.cache
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\obj\Debug\net5.0\cezaApp.dll
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\obj\Debug\net5.0\ref\cezaApp.dll
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\obj\Debug\net5.0\cezaApp.pdb
+C:\Users\Gloria\Documents\GitHub\RoundV\39_Day\cezaApp\obj\Debug\net5.0\cezaApp.genruntimeconfig.cache
