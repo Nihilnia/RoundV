@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3723ab1f-692b-4466-a679-1f186c34103e": {
+      "ProjectGuid": "3723ab1f-692b-4466-a679-1f186c34103e",
+      "DisplayName": "1_sqlCommandsAtCSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "1_oneToOne": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Gloria\\Documents\\GitHub\\RoundV\\40_Day\\relations\\1_oneToOne"
+    }
+  }
+}

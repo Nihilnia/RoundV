@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "adb8cc36-863a-40d9-a72b-e9dd8cc699a2": {
+      "ProjectGuid": "adb8cc36-863a-40d9-a72b-e9dd8cc699a2",
+      "DisplayName": "1_manyToMany",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

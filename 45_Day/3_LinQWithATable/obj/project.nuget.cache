@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kCmLO08ekThrfXoWPDEV/h4Y+AqMi2s5R4ZNkm/PglS4P5b/0HPmANxzDGXMOODpXvDF796zu+myxIqpg6Rh3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gloria\\Documents\\GitHub\\RoundV\\45_Day\\3_LinQWithATable\\3_LinQWithATable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gloria\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.11\\microsoft.netcore.app.host.win-x64.5.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

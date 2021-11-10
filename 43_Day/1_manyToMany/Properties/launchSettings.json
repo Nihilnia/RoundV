@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "1_manyToMany": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\Gloria\\Documents\\GitHub\\RoundV\\43_Day\\1_manyToMany"
+    }
+  }
+}

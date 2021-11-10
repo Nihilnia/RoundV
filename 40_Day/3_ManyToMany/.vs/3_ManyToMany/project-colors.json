@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2060eb03-3852-4ca5-b1b6-57028b04b282": {
+      "ProjectGuid": "2060eb03-3852-4ca5-b1b6-57028b04b282",
+      "DisplayName": "3_ManyToMany",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
