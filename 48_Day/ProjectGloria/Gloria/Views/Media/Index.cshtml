@@ -1,0 +1,15 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_navbarNDFooter.cshtml";
+
+    List<string> MediaElements = new List<string>() { "Media_1.jpg", "Media_2.jpg", "Media_3.jpg"};
+}
+
+<h2>Medias.</h2>
+<ul>
+    @foreach (var f in MediaElements)
+    {
+        <li>@f</li>
+    }
+</ul>

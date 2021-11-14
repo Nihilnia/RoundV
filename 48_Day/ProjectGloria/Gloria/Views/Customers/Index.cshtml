@@ -1,0 +1,50 @@
+﻿@using Gloria.ProjectGloria.Data;
+
+@model List<Customers>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_navbarNDFooter.cshtml";
+    int key = 0;
+}
+
+<style>
+    #daTable{
+        width: 600px;
+    }
+</style>
+
+
+<ul>
+
+    <table class="table" id="daTable">
+        <thead>
+            <tr>
+                <td>ALL CUSTOMERS</td>
+            </tr>
+        </thead>
+        <thead class="table-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">First Name</th>
+                <th scope="col">Last Name</th>
+                <th scope="col">Job Title</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var f in Model)
+            {
+                key++;
+            <tr>
+                <th scope="row">@key</th>
+                <td>@f.FirstName</td>
+                <td>@f.LastName</td>
+                <td>@f.JobTitle</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+
+
+</ul>
